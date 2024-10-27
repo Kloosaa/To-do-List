@@ -1,4 +1,4 @@
-To-do List
+To-do List project created two years ago
 Program Planner
 Project Description
 Program Planner is an application written in Python designed for managing events and tasks. The application enables users to efficiently plan, view, and modify their tasks. With a simple command-line interface, users can quickly add, delete, and sort events based on various criteria such as priority, creation date, or update date. Tasks are saved in a text file.
